@@ -1,13 +1,12 @@
 # Spotify Music App
 
-This is a simple Spotify clone frontend project created using HTML, CSS, and JavaScript. It aims to replicate the basic functionality and appearance of the Spotify web player.
+This is a simple Spotify clone frontend project created using HTML, CSS, and JavaScript.
 
 ## Features
 
 - Displaying a collection of music tracks
 - Playing and pausing tracks
 - Skipping tracks
-- Controlling volume
 - Displaying track progress
 - Responsive design for various screen sizes
 
@@ -19,7 +18,7 @@ This is a simple Spotify clone frontend project created using HTML, CSS, and Jav
 
 ## How to Use
 
-1. Clone this repository to your local machine `git clone https://github.com/gaurav-bhadane/Spotify-Clone.git`.
+1. Clone this repository to your local machine.
 2. Open `index.html` in your preferred web browser.
 
 ## Future Improvements
